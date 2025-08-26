@@ -1,2 +1,2 @@
-# LinkedIn_Learning_GenAI_DA_DS
-This is a repository for the LinkedIn Learning course: Complete Guide to Generative AI for Data Analysis and Data Science
+# LinkedIn Learning: Complete Guide to Generative AI for Data Analysis and Data Science
+This is a repository that follows along the course content for the above mentioned LinkedIn course. 
